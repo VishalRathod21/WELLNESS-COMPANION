@@ -32,16 +32,6 @@ Wellness Companion integrates several key features to support users in their wel
 
 ![System Architecture](Image/Screenshot_20250718_131053.png)
 
-```
-User Input (Profile Data & Activity Logs)
-          |
-          v
-Wellness Plan Generator <--> Activity Tracker <--> Progress Analyzer
-          |
-          v
-    User Dashboard (Visualization & Reports)
-```
-
 ## Installation
 
 ### Prerequisites
@@ -98,13 +88,7 @@ Wellness Companion/
 
 - **For Users:**
   - Generate personalized health plans
-  - Track daily health activities easily
   - Set and manage health goals
-  - Visualize progress over time
-
-- **For Health Professionals:**
-  - Monitor patient adherence to health plans
-  - Analyze patient progress with detailed reports
 
 ## Development Workflow
 
